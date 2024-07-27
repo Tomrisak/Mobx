@@ -1,0 +1,6 @@
+@MobX_HostAddress = http://localhost:5270
+
+GET {{MobX_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
