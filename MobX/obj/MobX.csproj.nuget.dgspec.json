@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MESUT\\Desktop\\Mobx\\MobX\\MobX.csproj": {}
+    "C:\\Users\\MESUT\\Desktop\\Mobx\\mobx\\MobX.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MESUT\\Desktop\\Mobx\\MobX\\MobX.csproj": {
+    "C:\\Users\\MESUT\\Desktop\\Mobx\\mobx\\MobX.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MESUT\\Desktop\\Mobx\\MobX\\MobX.csproj",
+        "projectUniqueName": "C:\\Users\\MESUT\\Desktop\\Mobx\\mobx\\MobX.csproj",
         "projectName": "MobX",
-        "projectPath": "C:\\Users\\MESUT\\Desktop\\Mobx\\MobX\\MobX.csproj",
+        "projectPath": "C:\\Users\\MESUT\\Desktop\\Mobx\\mobx\\MobX.csproj",
         "packagesPath": "C:\\Users\\MESUT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MESUT\\Desktop\\Mobx\\MobX\\obj\\",
+        "outputPath": "C:\\Users\\MESUT\\Desktop\\Mobx\\mobx\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

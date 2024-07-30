@@ -11,16 +11,21 @@
   },
   "dependencies": {
     "@types/react-calendar": "^4.1.0",
+    "@types/react-datepicker": "^7.0.0",
+    "@types/yup": "^0.32.0",
     "axios": "^1.7.2",
     "calendar": "^0.1.1",
+    "formik": "^2.4.6",
     "mobx": "^6.13.1",
     "mobx-react-lite": "^4.0.7",
     "react": "^18.3.1",
+    "react-datepicker": "^7.3.0",
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.25.1",
     "semantic-ui-css": "^2.5.0",
     "semantic-ui-react": "^3.0.0-beta.0",
-    "uuid": "^10.0.0"
+    "uuid": "^10.0.0",
+    "yup": "^1.4.0"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
