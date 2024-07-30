@@ -128,3 +128,4 @@ C:\Users\MESUT\Desktop\Mobx\Mobx\obj\Debug\net8.0\MobX.genruntimeconfig.cache
 C:\Users\MESUT\Desktop\Mobx\Mobx\obj\Debug\net8.0\ref\MobX.dll
 C:\Users\MESUT\Desktop\Mobx\Mobx\bin\Debug\net8.0\MediatR.dll
 C:\Users\MESUT\Desktop\Mobx\Mobx\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\MESUT\Desktop\Mobx\MobX\obj\Debug\net8.0\MobX.sourcelink.json
